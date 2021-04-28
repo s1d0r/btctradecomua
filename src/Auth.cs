@@ -1,8 +1,8 @@
 // { "status": true, "token": "blabla","nonce": 2}
 
-class Auth
+public class Auth
 {
-    bool status;
-    string token;
-    int nonce;
+    public bool status;
+    public string token;
+    public int nonce;
 }
